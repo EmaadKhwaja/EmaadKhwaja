@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 ## Visit my [Personal Website](http://emaad.org) for more information about me!
 
-## Please visit my [Google Scholar page](https://scholar.google.com/citations?user=YpzxekoAAAAJ&hl=en) for a full list of publications!
-
 ![](Github.gif)
+
+## Please visit my [Google Scholar page](https://scholar.google.com/citations?user=YpzxekoAAAAJ&hl=en) for a full list of publications!
