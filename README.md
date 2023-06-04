@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](memoji.png)
-
-
 ![](Github.gif)
 
 ## Please visit my [Google Scholar page](https://scholar.google.com/citations?user=YpzxekoAAAAJ&hl=en) for a full list of publications!
