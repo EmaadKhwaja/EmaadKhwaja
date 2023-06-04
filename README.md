@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](memoji.png)
+
 ## Visit my [Personal Website](http://emaad.org) for more information about me!
 
 ![](Github.gif)
